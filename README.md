@@ -1,13 +1,3 @@
 ﻿# AutoReactBot
 
-Yo yo yo its me jack i finally got this thing to work!!!
-
-HOW TO RUN:
-open Script.jar
-enter in an integer for the minimum (the shortest amount of time before pressing F7 again)
-enter in an integer for the maximum (the longest amount of time before pressing F7 again)
-
-HOW TO STOP:
-close the terminal
-
-this script will run forever, until it is closed.
+ok so i couldnt upload the .jar file, but heres the source code for the project.
